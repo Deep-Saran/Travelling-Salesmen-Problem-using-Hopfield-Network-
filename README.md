@@ -1,1 +1,3 @@
-# Travelling-Salesmen-Problem-using-Hopfield-Network-
+# Travelling-Salesmen-Problem-using-Hopfield-Network
+## Description:
+Travelling Salesmen Problem (TSP) has been solved in the past using many machine learning and deep learning algorithms. With the development of the large-scale applications of travelling salesmen problem, importance of finding optimal solution with in better run time has become important criteria for the researchers. Network is a neural network in which a set of neurons are defined to compute the solution. And the network is described by energy function which must reach to a minimum state i.e. a stable state which indicates the best path.
